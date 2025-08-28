@@ -1,0 +1,47 @@
+Machine learning allows businesses to enable the data to teach the system how to solve the problem at hand with machine learning algorithms—and how to get better over time.
+
+Today’s enterprises are bombarded with data. To drive better business decisions, they have to make sense of it. But the sheer volume coupled with complexity makes data difficult to analyze using traditional tools. Building, testing, iterating, and deploying analytical models for identifying patterns and insights in data eats up employees’ time. Then after being deployed, such models also have to be monitored and continually adjusted as the market situation or the data itself changes. This is how machine learning works, as it is the solution.
+
+To learn more about machine learning, read about Google Cloud’s AI Platform.
+
+Get started for free
+Learn about AI Platform
+Whitepaper icon
+Practitioners Guide to Machine Learning Operations (MLOps)
+Download the guide
+Machine learning defined
+Machine learning is a subset of artificial intelligence that enables a system to autonomously learn and improve using neural networks and deep learning, without being explicitly programmed, by feeding it large amounts of data.
+
+Because machine learning allows computer systems to continuously adjust and enhance themselves as they accrue more “experiences,” the more data that’s put into them, the more accurate the results will be. 
+
+In effect, machine learning applications automate the job of building statistical models. Python machine learning is a great machine learning example, in that it learns from data, identifies patterns, and makes decisions with minimal human intervention.
+
+Solve your business challenges with Google Cloud
+New customers get $300 in free credits to spend on Google Cloud.
+Get started
+Talk to a Google Cloud sales specialist to discuss your unique challenge in more detail.
+Contact us
+Machine learning use cases
+Here are some examples of what machine learning is used for:
+Robotic process automation (RPA)
+RPA combined with machine learning creates intelligent automation that’s capable of automating complex tasks, such as processing mortgage applications.
+
+Sales optimization
+Customer data can train machine learning algorithms for customer sentiment analysis, sales forecasting analysis, and customer churn predictions.
+
+Customer service
+Machine learning applications include chatbots and automated virtual assistants to automate routine customer service tasks and speed up issue resolution.
+
+Security
+Machine learning helps enterprises improve their threat analysis capabilities and how they respond to cyberattacks, hackers, and malware.
+
+Digital marketing
+Machine learning enables marketers to identify new customers and to offer the right marketing materials to the right people at the right time.
+
+Fraud prevention
+Machine learning helps credit card companies and banks review vast amounts of transactional data to identify suspicious activity in real time.
+
+Related products and services
+Google offers a number of innovative machine learning products, solutions, and applications on a trusted cloud platform that enables businesses to easily build and implement machine learning algorithms and models. 
+
+By using products like AI Hub, AI Platform, and AI building blocks, organizations can make sense of all the data they’re producing, collecting, or otherwise inquiring, no matter what format it’s in, to make actionable business
